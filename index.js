@@ -15,7 +15,7 @@ while(nivel < 1 || nivel > 3 || nivel == null){
 		max = 101;
 	}else if(nivel == 3){
 		cont = 5;
-		max = 200;
+		max = 201;
 	}
 }
 let number = Math.floor(Math.random() * max);
